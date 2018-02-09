@@ -1,0 +1,80 @@
+
+Things to be Discussed :
+
+	1. How to beat our product over Quikr/ if(Existing) => Platform	
+
+		=> Brainstrom the Use-cases and Features together
+
+	2. How to Develop Platform 
+
+		=> Web Platform
+
+		=> App Platform (needed???)
+		
+		=> Cloud Services (needed???) (AWS/ Digital Ocean/ GCP)
+			-> Email
+			-> Notification
+			-> Storage
+			-> Database
+			-> Live Streaming
+				etc etc etc
+
+	3. In which Language/ Framework platform should be developed?
+
+		--------------------------------------------------------
+		****** Discuss Database *******
+			
+			=> SQL/ NO-SQL
+
+			=> Mysql/ Firebase/ Mongo etc...etc...etc...
+
+		--------------------------------------------------------
+		
+		=> Java
+
+			=> Spring/ Hibernate as Back-end and JSP as Front-end
+
+		=> PHP
+		
+			=> Laravel/ Codignitor
+		
+		=> CMS Frameworks 
+		
+			=> WordPress/ Magento
+
+		=> Javascript (+ Node JS)
+
+			Front-end :
+
+				1. React JS
+				2. Angular JS
+				3. Vue JS
+
+			Back-end
+
+				1. LoopBack JS
+				2. Sails JS
+
+--------------------------------------------------------------------------------
+
+Discuss Product Use-Cases
+	
+	1. Debate over UI/ UX Features
+	2. Debate over Backend Features
+	3. Need to use SDLC ????
+
+Discuss Platform Dependencies
+	
+	Front-End and Back-end Division	
+
+	1. Github/ Bitbucket/ Gitlab/ Gist/ JSFiddle
+	2. Slack
+	3. Cloud Services
+	4. Whats app Group
+	5. IDE to work on
+	6. Trello / Jira
+	7. NGROK
+	8. Team-Viewer/ SKYPE
+
+
+------------------Developers Feedback------------------------
