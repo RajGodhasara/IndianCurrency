@@ -46,7 +46,7 @@ Things to be Discussed :
 
 			Front-end :
 
-				1. React JS
+				1. React + Redux (using ducks Moduler Pattern)
 				2. Angular JS
 				3. Vue JS
 
@@ -76,5 +76,13 @@ Discuss Platform Dependencies
 	7. NGROK
 	8. Team-Viewer/ SKYPE
 
+Project Structure and Coding Conventions
+	
+	1. Commit Convention for Github
+	2. Project Architecture
+	3. Files and Folders Naming and Coding Conventions
+	4. Proper Git usage
+	5. Daily Kick-off Meetups
+	6. Work Distribution/ Reporting/ Problem Solving span
 
 ------------------Developers Feedback------------------------
