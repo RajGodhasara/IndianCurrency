@@ -86,3 +86,23 @@ Project Structure and Coding Conventions
 	6. Work Distribution/ Reporting/ Problem Solving span
 
 ------------------Developers Feedback------------------------
+
+BY @RAJ
+
+2. How to Develop Platform 
+	=> Web App for now. we can start work on Mobile app once we are at the top level of web application.
+	=> Cloud services can be use upon our requirements - Service provider would be AWS or Google.
+3. In which Language/ Framework platform should be developed?
+	=> @Sankalp Please have a look to 'OSClass' Framwork which is specially dersigned.
+	=> Second preference will be the laravel with javascript(+ nodeJs)
+	
+Discuss Product Use-Cases
+	=> SDLC may be a time consuming for us. So we may also go with agile process model.
+Discuss Platform Dependencies
+	=> Fine with anything for project/issue management (Git may be a better as it linked with many other platforms like slack, cloud 	    services etc ).
+Project Structure and Coding Conventions
+	=> Commit Convenstion for GIT - #[IssueNumber] [CommitMessage] - [WorkedModuleORFunctionality]
+	=> I dont have much idea of PHP framworks. For Project Architecture and File Naming convenstion you will get help from @Sudhir 	who will join github by tomorrow(Available on slack)
+	=> Daily Meetups can be done by Slack/WhatsApp/Call based on the developer avalibility.
+	
+DON'T HESITET TO COME UP WITH SUGGESTION/FEEDBACK/BETTER-IDEA  
